@@ -1,62 +1,138 @@
-<!-- Copy this file into README.md in the public repository named exactly: parthalti -->
-
 <div align="center">
 
-# PARTH ALTI
-### B.Tech CSE · Class of 2028
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:3B0764,70:6D28D9,100:06B6D4&height=190&section=header&text=PARTH%20ALTI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHIP&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Neon purple and cyan header banner">
 
-**Building practical software. Exploring AI/ML. Learning by shipping.**
+<a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GITHUB-@parthalti-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+<a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<img src="https://img.shields.io/badge/CLASS_OF-2028-0891B2?style=for-the-badge" alt="Class of 2028">
 
-<p>
-  <a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GitHub-parthalti-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:241044,100:0891B2&height=3" width="100%" alt="purple cyan accent">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering;Software+Development+%2B+AI%2FML;Turning+ideas+into+working+projects;One+commit+at+a+time+%E2%9A%A1" alt="Animated introduction">
 
 </div>
 
-## `01 / ABOUT`
+---
 
-I'm a third-year Computer Science and Engineering student graduating in **2028**, interested in building useful applications and learning how intelligent systems work.
+## <img src="https://img.shields.io/badge/01-IDENTITY-6D28D9?style=flat-square" alt="01 identity">
 
-- 🎯 **Focus:** Software Development and AI/ML
-- 🧠 **Currently strengthening:** DSA, Python, and machine-learning fundamentals
-- 🛠️ **Build style:** Learn concepts, implement them, document the trade-offs
-- 🤝 **Open to:** Learning opportunities, collaborative projects, and relevant internships
+> **Computer Science student. Builder in progress. Curious about intelligent systems.**
 
-## `02 / FEATURED BUILDS`
+I'm a third-year B.Tech CSE student graduating in **2028**. I like learning by building, improving projects through iteration, and understanding the fundamentals behind the tools I use.
 
-| Project | What it explores |
-| --- | --- |
-| [**KrishiHedg**](https://github.com/parthalti/KrishiHedg) | Agricultural market insights, risk analysis, forecasting, marketplace workflows, and payments |
-| [**Calorie Burnt Prediction**](https://github.com/parthalti/calorie-burnt-prediction) | A Streamlit machine-learning application for calorie-burn prediction and related analysis |
-| [**3D Portfolio**](https://github.com/parthalti/parth-alti-portfolio) | Personal portfolio built with React, TypeScript, Tailwind CSS, Framer Motion, and React Three Fiber |
-| [**Sudoku Solver**](https://github.com/parthalti/Sudoko-Solver) | Browser-based Sudoku solver with a backtracking visualizer |
-| [**LCS DNA Alignment**](https://github.com/parthalti/LCS-DNA-Alignment) | Dynamic programming exercise for longest common subsequence of DNA-like sequences |
-| [**Optimal Binary Search Tree**](https://github.com/parthalti/Optimal-Binary-search-Tree) | Dynamic programming implementation using successful and unsuccessful search probabilities |
+- ⚡ **Main quest:** Software Development + AI/ML
+- 🧠 **Training arc:** DSA, Python, and machine-learning fundamentals
+- 🛠️ **Build philosophy:** Make it work → understand it → improve it
+- 🤝 **Open to:** Collaborative projects, learning opportunities, and relevant internships
 
-## `03 / TECH I'M WORKING WITH`
+## <img src="https://img.shields.io/badge/02-MISSION%20LOG-0891B2?style=flat-square" alt="02 mission log">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Technologies shown reflect project and learning exposure; proficiency is a work in progress.*
+### 🌾 KrishiHedg
+Agriculture-focused platform exploring market insights, risk analysis, forecasting, marketplace workflows, and payments.
 
-## `04 / KEEP IN TOUCH`
+[**↗ OPEN REPOSITORY**](https://github.com/parthalti/KrishiHedg)
 
-- 🌐 Portfolio: [parth-alti-portfolio.vercel.app](https://parth-alti-portfolio.vercel.app)
-- 💻 GitHub: [@parthalti](https://github.com/parthalti)
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Calorie Burnt Prediction
+A deployed Streamlit machine-learning project for calorie-burn prediction.
+
+[**↗ SOURCE CODE**](https://github.com/parthalti/calorie-burnt-prediction) · [**LIVE APP**](https://calorie-burnt-prediction-parthalti.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌀 3D Portfolio
+Personal portfolio exploring interactive 3D visuals and motion with React, TypeScript, and React Three Fiber.
+
+[**↗ OPEN REPOSITORY**](https://github.com/parthalti/parth-alti-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Sudoku Solver
+A browser-based Sudoku solver with a backtracking visualizer.
+
+[**↗ OPEN REPOSITORY**](https://github.com/parthalti/Sudoko-Solver)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 LCS DNA Alignment
+Dynamic programming practice using longest common subsequence on DNA-like sequences.
+
+[**↗ OPEN REPOSITORY**](https://github.com/parthalti/LCS-DNA-Alignment)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌳 Optimal Binary Search Tree
+A dynamic programming implementation using successful and unsuccessful search probabilities.
+
+[**↗ OPEN REPOSITORY**](https://github.com/parthalti/Optimal-Binary-search-Tree)
+
+</td>
+</tr>
+</table>
+
+## <img src="https://img.shields.io/badge/03-TECH%20STACK-6D28D9?style=flat-square" alt="03 tech stack">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:241044,100:09090B&height=3" width="100%" alt="purple cyan accent">
-<sub>Keep building. Keep learning. Make the next commit count.</sub>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,git,github,vscode&theme=dark" alt="Technologies and tools">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Frontend-React-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Backend-FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+
+</div>
+
+<sub>These reflect tools used in projects and current learning—not a claim of expert-level proficiency.</sub>
+
+## <img src="https://img.shields.io/badge/04-ACTIVITY%20CONSOLE-0891B2?style=flat-square" alt="04 activity console">
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parthalti&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&ring_color=8B5CF6" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthalti&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" height="165" alt="Most-used languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=parthalti&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub contribution streak">
+
+</div>
+
+## <img src="https://img.shields.io/badge/05-NEXT%20LEVEL-6D28D9?style=flat-square" alt="05 next level">
+
+- [ ] Strengthen DSA problem-solving consistency
+- [ ] Build deeper foundations in machine learning
+- [ ] Ship useful features and document what I learn
+- [ ] Keep the GitHub contribution graph moving
+
+## <img src="https://img.shields.io/badge/06-CONNECT-0891B2?style=flat-square" alt="06 connect">
+
+<div align="center">
+
+<a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
+<a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel" alt="Explore portfolio"></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:09090B&height=110&section=footer" width="100%" alt="Neon footer">
+
+<strong>while (curious) { build(); learn(); repeat(); }</strong>
+
+<sub>Keep building. Keep learning. Make the next commit count. ⚡</sub>
+
 </div>
