@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:3B0764,70:6D28D9,100:06B6D4&height=240&section=header&text=PARTH%20ALTI&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20BUILDER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Neon purple and cyan header banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1E1B4B,70:4338CA,100:7DD3FC&height=240&section=header&text=PARTH%20ALTI&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20BUILDER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Midnight Aurora deep navy, indigo, and icy blue header banner">
 
-<a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GITHUB-@parthalti-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-<a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<img src="https://img.shields.io/badge/CLASS_OF-2028-0891B2?style=for-the-badge" alt="Class of 2028">
+<a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GITHUB-@parthalti-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+<a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-4338CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<img src="https://img.shields.io/badge/CLASS_OF-2028-1D4ED8?style=for-the-badge" alt="Class of 2028">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering;Software+Development+%2B+AI%2FML;Turning+ideas+into+working+projects;One+commit+at+a+time+%E2%9A%A1" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering;Software+Development+%2B+AI%2FML;Turning+ideas+into+working+projects;One+commit+at+a+time+%E2%9A%A1" alt="Animated introduction">
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-SYSTEM%20PROFILE-6D28D9?style=flat-square" alt="01 system profile">
+## <img src="https://img.shields.io/badge/01-SYSTEM%20PROFILE-4338CA?style=flat-square" alt="01 system profile">
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ I build projects to understand how software works end-to-end—from interfaces a
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/02-SELECTED%20BUILDS-0891B2?style=flat-square" alt="02 selected builds">
+## <img src="https://img.shields.io/badge/02-SELECTED%20BUILDS-1D4ED8?style=flat-square" alt="02 selected builds">
 
 <table>
 <tr>
@@ -126,13 +126,13 @@ A dynamic programming implementation using successful and unsuccessful search pr
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/03-CURRENT%20DIRECTIVES-6D28D9?style=flat-square" alt="03 current directives">
+## <img src="https://img.shields.io/badge/03-CURRENT%20DIRECTIVES-4338CA?style=flat-square" alt="03 current directives">
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/01-ENGINEERING-6D28D9?style=for-the-badge" alt="Engineering">
+<img src="https://img.shields.io/badge/01-ENGINEERING-4338CA?style=for-the-badge" alt="Engineering">
 
 **DSA & BACKEND**
 
@@ -141,7 +141,7 @@ APIs · databases · testing
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/02-INTELLIGENCE-0891B2?style=for-the-badge" alt="AI and ML">
+<img src="https://img.shields.io/badge/02-INTELLIGENCE-1D4ED8?style=for-the-badge" alt="AI and ML">
 
 **AI / ML**
 
@@ -150,7 +150,7 @@ Python · evaluation · explainability
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/03-DELIVERY-6D28D9?style=for-the-badge" alt="Delivery">
+<img src="https://img.shields.io/badge/03-DELIVERY-4338CA?style=for-the-badge" alt="Delivery">
 
 **BUILD & SHIP**
 
@@ -160,7 +160,7 @@ Full-stack · deployment · docs
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/04-TOOLKIT-6D28D9?style=flat-square" alt="04 toolkit">
+## <img src="https://img.shields.io/badge/04-TOOLKIT-4338CA?style=flat-square" alt="04 toolkit">
 
 <div align="center">
 
@@ -169,45 +169,45 @@ Full-stack · deployment · docs
 <br><br>
 
 <img src="https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Frontend-React-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Frontend-React-7DD3FC?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/Backend-FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 
 </div>
 
 <sub>Tools shown here reflect project use and current learning—not a claim of expert-level proficiency.</sub>
 
-## <img src="https://img.shields.io/badge/05-CONTRIBUTION%20TELEMETRY-0891B2?style=flat-square" alt="05 contribution telemetry">
+## <img src="https://img.shields.io/badge/05-CONTRIBUTION%20TELEMETRY-1D4ED8?style=flat-square" alt="05 contribution telemetry">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthalti&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&ring_color=8B5CF6" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthalti&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" height="165" alt="Most-used languages">
+<img src="https://github-readme-stats.vercel.app/api?username=parthalti&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=E5E7EB&ring_color=8B5CF6" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthalti&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=E5E7EB" height="165" alt="Most-used languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=parthalti&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=parthalti&hide_border=true&background=020617&ring=6366F1&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub contribution streak">
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthalti&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthalti&bg_color=0D1117&color=7DD3FC&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph">
 
-## <img src="https://img.shields.io/badge/06-ROADMAP-6D28D9?style=flat-square" alt="06 roadmap">
+## <img src="https://img.shields.io/badge/06-ROADMAP-4338CA?style=flat-square" alt="06 roadmap">
 
 - [ ] Build consistent DSA problem-solving habits
 - [ ] Deepen machine-learning fundamentals and evaluation
 - [ ] Ship well-tested features with clear documentation
 - [ ] Turn project experiments into polished, explainable demos
 
-## <img src="https://img.shields.io/badge/07-ESTABLISH%20CONNECTION-0891B2?style=flat-square" alt="07 establish connection">
+## <img src="https://img.shields.io/badge/07-ESTABLISH%20CONNECTION-1D4ED8?style=flat-square" alt="07 establish connection">
 
 <div align="center">
 
 <a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
-<a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel" alt="Explore portfolio"></a>
+<a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-4338CA?style=for-the-badge&logo=vercel" alt="Explore portfolio"></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:09090B&height=110&section=footer" width="100%" alt="Neon footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:4338CA,100:020617&height=110&section=footer" width="100%" alt="Neon footer">
 
 <strong>while (curious) { build(); learn(); repeat(); }</strong>
 
