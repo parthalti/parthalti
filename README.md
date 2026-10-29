@@ -106,7 +106,7 @@ A dynamic programming implementation using successful and unsuccessful search pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,git,github,vscode&theme=dark" alt="Technologies and tools">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,flask,postgres,git,github,vscode&theme=dark" alt="Technologies and tools">
 
 <br><br>
 
@@ -116,7 +116,7 @@ A dynamic programming implementation using successful and unsuccessful search pr
 
 </div>
 
-<sub>These reflect tools used in projects and current learning—not a claim of expert-level proficiency.</sub>
+<sub>These reflect tools used in projects and current learning—not a claim of expert-level proficiency. FlowSight and RAMS Hospital are now included in the featured project list above.</sub>
 
 ## <img src="https://img.shields.io/badge/04-ACTIVITY%20CONSOLE-0891B2?style=flat-square" alt="04 activity console">
 
