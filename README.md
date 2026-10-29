@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:3B0764,70:6D28D9,100:06B6D4&height=190&section=header&text=PARTH%20ALTI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHIP&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Neon purple and cyan header banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:3B0764,70:6D28D9,100:06B6D4&height=240&section=header&text=PARTH%20ALTI&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20BUILDER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Neon purple and cyan header banner">
 
 <a href="https://github.com/parthalti"><img src="https://img.shields.io/badge/GITHUB-@parthalti-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 <a href="https://parth-alti-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -27,7 +27,7 @@ I'm a third-year B.Tech CSE student graduating in **2028**. I like learning by b
 - 🛠️ **Build philosophy:** Make it work → understand it → improve it
 - 🤝 **Open to:** Collaborative projects, learning opportunities, and relevant internships
 
-## <img src="https://img.shields.io/badge/02-MISSION%20LOG-0891B2?style=flat-square" alt="02 mission log">
+## <img src="https://img.shields.io/badge/02-SELECTED%20BUILDS-0891B2?style=flat-square" alt="02 selected builds">
 
 <table>
 <tr>
@@ -104,35 +104,41 @@ A dynamic programming implementation using successful and unsuccessful search pr
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/03-CURRENT%20FOCUS-6D28D9?style=flat-square" alt="03 current focus">
+## <img src="https://img.shields.io/badge/03-CURRENT%20DIRECTIVES-6D28D9?style=flat-square" alt="03 current directives">
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-### ⚙️ SOFTWARE ENGINEERING
+<img src="https://img.shields.io/badge/01-ENGINEERING-6D28D9?style=for-the-badge" alt="Engineering">
 
-DSA · APIs · databases · testing
+**DSA & BACKEND**
 
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🧠 AI / MACHINE LEARNING
-
-Python · model evaluation · explainability
+APIs · databases · testing
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🚀 BUILD & SHIP
+<img src="https://img.shields.io/badge/02-INTELLIGENCE-0891B2?style=for-the-badge" alt="AI and ML">
 
-Full-stack apps · deployment · documentation
+**AI / ML**
+
+Python · evaluation · explainability
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-DELIVERY-6D28D9?style=for-the-badge" alt="Delivery">
+
+**BUILD & SHIP**
+
+Full-stack · deployment · docs
 
 </td>
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/04-TECH%20STACK-6D28D9?style=flat-square" alt="04 tech stack">
+## <img src="https://img.shields.io/badge/04-TOOLKIT-6D28D9?style=flat-square" alt="04 toolkit">
 
 <div align="center">
 
@@ -148,7 +154,7 @@ Full-stack apps · deployment · documentation
 
 <sub>Tools shown here reflect project use and current learning—not a claim of expert-level proficiency.</sub>
 
-## <img src="https://img.shields.io/badge/05-ACTIVITY%20CONSOLE-0891B2?style=flat-square" alt="05 activity console">
+## <img src="https://img.shields.io/badge/05-CONTRIBUTION%20TELEMETRY-0891B2?style=flat-square" alt="05 contribution telemetry">
 
 <div align="center">
 
@@ -163,14 +169,14 @@ Full-stack apps · deployment · documentation
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthalti&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph">
 
-## <img src="https://img.shields.io/badge/06-NEXT%20LEVEL-6D28D9?style=flat-square" alt="06 next level">
+## <img src="https://img.shields.io/badge/06-ROADMAP-6D28D9?style=flat-square" alt="06 roadmap">
 
-- [ ] Strengthen DSA problem-solving consistency
-- [ ] Build deeper foundations in machine learning
-- [ ] Ship useful features and document what I learn
-- [ ] Keep the GitHub contribution graph moving
+- [ ] Build consistent DSA problem-solving habits
+- [ ] Deepen machine-learning fundamentals and evaluation
+- [ ] Ship well-tested features with clear documentation
+- [ ] Turn project experiments into polished, explainable demos
 
-## <img src="https://img.shields.io/badge/07-CONNECT-0891B2?style=flat-square" alt="07 connect">
+## <img src="https://img.shields.io/badge/07-ESTABLISH%20CONNECTION-0891B2?style=flat-square" alt="07 establish connection">
 
 <div align="center">
 
@@ -183,6 +189,6 @@ Full-stack apps · deployment · documentation
 
 <strong>while (curious) { build(); learn(); repeat(); }</strong>
 
-<sub>Keep building. Keep learning. Make the next commit count. ⚡</sub>
+<sub>LESS HYPE. MORE BUILD. BETTER ENGINEERING. ⚡</sub>
 
 </div>
