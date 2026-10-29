@@ -14,18 +14,40 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/01-IDENTITY-6D28D9?style=flat-square" alt="01 identity">
+## <img src="https://img.shields.io/badge/01-SYSTEM%20PROFILE-6D28D9?style=flat-square" alt="01 system profile">
 
-> **ENGINEER IN PROGRESS // BUILDING AT THE INTERSECTION OF SOFTWARE + AI**
->
-> Third-year B.Tech CSE · Class of 2028 · Learn fast, build honestly, ship consistently.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I'm a third-year B.Tech CSE student graduating in **2028**. I like learning by building, improving projects through iteration, and understanding the fundamentals behind the tools I use.
+### SOFTWARE × INTELLIGENCE
 
-- ⚡ **Main quest:** Software Development + AI/ML
-- 🧠 **Training arc:** DSA, Python, and machine-learning fundamentals
-- 🛠️ **Build philosophy:** Make it work → understand it → improve it
-- 🤝 **Open to:** Collaborative projects, learning opportunities, and relevant internships
+**B.Tech Computer Science · Class of 2028**
+
+I build projects to understand how software works end-to-end—from interfaces and APIs to data, models, and deployment. Currently sharpening my software engineering and AI/ML foundations.
+
+- **CURRENT QUEST** — DSA + stronger engineering fundamentals
+- **BUILD MODE** — Full-stack systems and ML experiments
+- **OPEN TO** — Collaborative builds and relevant internships
+
+</td>
+<td width="38%" valign="top">
+
+### OPERATING PRINCIPLES
+
+**01** Learn the fundamentals
+
+**02** Build a working version
+
+**03** Test the edge cases
+
+**04** Document the trade-offs
+
+**05** Iterate, repeat
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://img.shields.io/badge/02-SELECTED%20BUILDS-0891B2?style=flat-square" alt="02 selected builds">
 
