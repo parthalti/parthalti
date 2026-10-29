@@ -16,7 +16,9 @@
 
 ## <img src="https://img.shields.io/badge/01-IDENTITY-6D28D9?style=flat-square" alt="01 identity">
 
-> **Computer Science student. Builder in progress. Curious about intelligent systems.**
+> **ENGINEER IN PROGRESS // BUILDING AT THE INTERSECTION OF SOFTWARE + AI**
+>
+> Third-year B.Tech CSE · Class of 2028 · Learn fast, build honestly, ship consistently.
 
 I'm a third-year B.Tech CSE student graduating in **2028**. I like learning by building, improving projects through iteration, and understanding the fundamentals behind the tools I use.
 
@@ -34,7 +36,7 @@ I'm a third-year B.Tech CSE student graduating in **2028**. I like learning by b
 ### 🚦 FlowSight
 Explainable traffic analytics dashboard combining OpenStreetMap road context with machine-learning exploration of simulated traffic observations.
 
-[**↗ REPOSITORY**](https://github.com/parthalti/FlowSight)
+[**↗ REPOSITORY**](https://github.com/parthalti/FlowSight) · [**CASE STUDY**](https://github.com/parthalti/parth-alti-portfolio/blob/main/docs/PROJECT_CASE_STUDIES.md#flowsight)
 
 </td>
 <td width="50%" valign="top">
@@ -42,7 +44,7 @@ Explainable traffic analytics dashboard combining OpenStreetMap road context wit
 ### 🏥 RAMS Hospital
 Resource Allocation and Management System for multi-speciality hospitals, focused on hospital resource workflows including bed allocation/admission and OT scheduling.
 
-[**↗ REPOSITORY**](https://github.com/parthalti/RAMS-Hospital)
+[**↗ REPOSITORY**](https://github.com/parthalti/RAMS-Hospital) · [**CASE STUDY**](https://github.com/parthalti/parth-alti-portfolio/blob/main/docs/PROJECT_CASE_STUDIES.md#rams-hospital)
 
 </td>
 </tr>
@@ -102,7 +104,35 @@ A dynamic programming implementation using successful and unsuccessful search pr
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/03-TECH%20STACK-6D28D9?style=flat-square" alt="03 tech stack">
+## <img src="https://img.shields.io/badge/03-CURRENT%20FOCUS-6D28D9?style=flat-square" alt="03 current focus">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ⚙️ SOFTWARE ENGINEERING
+
+DSA · APIs · databases · testing
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🧠 AI / MACHINE LEARNING
+
+Python · model evaluation · explainability
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚀 BUILD & SHIP
+
+Full-stack apps · deployment · documentation
+
+</td>
+</tr>
+</table>
+
+## <img src="https://img.shields.io/badge/04-TECH%20STACK-6D28D9?style=flat-square" alt="04 tech stack">
 
 <div align="center">
 
@@ -116,9 +146,9 @@ A dynamic programming implementation using successful and unsuccessful search pr
 
 </div>
 
-<sub>These reflect tools used in projects and current learning—not a claim of expert-level proficiency. FlowSight and RAMS Hospital are now included in the featured project list above.</sub>
+<sub>Tools shown here reflect project use and current learning—not a claim of expert-level proficiency.</sub>
 
-## <img src="https://img.shields.io/badge/04-ACTIVITY%20CONSOLE-0891B2?style=flat-square" alt="04 activity console">
+## <img src="https://img.shields.io/badge/05-ACTIVITY%20CONSOLE-0891B2?style=flat-square" alt="05 activity console">
 
 <div align="center">
 
@@ -131,14 +161,16 @@ A dynamic programming implementation using successful and unsuccessful search pr
 
 </div>
 
-## <img src="https://img.shields.io/badge/05-NEXT%20LEVEL-6D28D9?style=flat-square" alt="05 next level">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthalti&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph">
+
+## <img src="https://img.shields.io/badge/06-NEXT%20LEVEL-6D28D9?style=flat-square" alt="06 next level">
 
 - [ ] Strengthen DSA problem-solving consistency
 - [ ] Build deeper foundations in machine learning
 - [ ] Ship useful features and document what I learn
 - [ ] Keep the GitHub contribution graph moving
 
-## <img src="https://img.shields.io/badge/06-CONNECT-0891B2?style=flat-square" alt="06 connect">
+## <img src="https://img.shields.io/badge/07-CONNECT-0891B2?style=flat-square" alt="07 connect">
 
 <div align="center">
 
