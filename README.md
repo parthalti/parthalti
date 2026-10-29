@@ -31,10 +31,28 @@ I'm a third-year B.Tech CSE student graduating in **2028**. I like learning by b
 <tr>
 <td width="50%" valign="top">
 
+### 🚦 FlowSight
+Explainable traffic analytics dashboard combining OpenStreetMap road context with machine-learning exploration of simulated traffic observations.
+
+[**↗ REPOSITORY**](https://github.com/parthalti/FlowSight)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 RAMS Hospital
+Resource Allocation and Management System for multi-speciality hospitals, focused on hospital resource workflows including bed allocation/admission and OT scheduling.
+
+[**↗ REPOSITORY**](https://github.com/parthalti/RAMS-Hospital)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌾 KrishiHedg
 Agriculture-focused platform exploring market insights, risk analysis, forecasting, marketplace workflows, and payments.
 
-[**↗ OPEN REPOSITORY**](https://github.com/parthalti/KrishiHedg)
+[**↗ REPOSITORY**](https://github.com/parthalti/KrishiHedg)
 
 </td>
 <td width="50%" valign="top">
@@ -52,7 +70,7 @@ A deployed Streamlit machine-learning project for calorie-burn prediction.
 ### 🌀 3D Portfolio
 Personal portfolio exploring interactive 3D visuals and motion with React, TypeScript, and React Three Fiber.
 
-[**↗ OPEN REPOSITORY**](https://github.com/parthalti/parth-alti-portfolio)
+[**↗ REPOSITORY**](https://github.com/parthalti/parth-alti-portfolio) · [**LIVE PORTFOLIO**](https://parth-alti-portfolio.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +78,7 @@ Personal portfolio exploring interactive 3D visuals and motion with React, TypeS
 ### 🧩 Sudoku Solver
 A browser-based Sudoku solver with a backtracking visualizer.
 
-[**↗ OPEN REPOSITORY**](https://github.com/parthalti/Sudoko-Solver)
+[**↗ REPOSITORY**](https://github.com/parthalti/Sudoko-Solver)
 
 </td>
 </tr>
@@ -70,7 +88,7 @@ A browser-based Sudoku solver with a backtracking visualizer.
 ### 🧬 LCS DNA Alignment
 Dynamic programming practice using longest common subsequence on DNA-like sequences.
 
-[**↗ OPEN REPOSITORY**](https://github.com/parthalti/LCS-DNA-Alignment)
+[**↗ REPOSITORY**](https://github.com/parthalti/LCS-DNA-Alignment)
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +96,7 @@ Dynamic programming practice using longest common subsequence on DNA-like sequen
 ### 🌳 Optimal Binary Search Tree
 A dynamic programming implementation using successful and unsuccessful search probabilities.
 
-[**↗ OPEN REPOSITORY**](https://github.com/parthalti/Optimal-Binary-search-Tree)
+[**↗ REPOSITORY**](https://github.com/parthalti/Optimal-Binary-search-Tree)
 
 </td>
 </tr>
